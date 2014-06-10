@@ -14,6 +14,7 @@
     <author href="http://calc.jawaharvidyamandir.in" email="bharatlakhiyani.cmpica@gmail.com">
         Bharat Lakhiyani
     </author>
+    <preference name="phonegap-version" value="3.0.0" />
     <gap:splash src="res/url.png" />
     <content src="index.html" />
     <icon src="res/url.png" gap:role="default" />
